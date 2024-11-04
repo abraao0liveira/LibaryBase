@@ -59,3 +59,8 @@ namespace LibaryBase.DataAccess
 ```bash
 dotnet run
 ```
+
+## Terminal Menu
+![Captura de tela 2024-11-04 193732](https://github.com/user-attachments/assets/5f773409-ffad-4d43-9e7d-98ffd2085282)
+
+## Terminal Listar livros
