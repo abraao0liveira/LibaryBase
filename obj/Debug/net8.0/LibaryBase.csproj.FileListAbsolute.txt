@@ -35,3 +35,4 @@ C:\Users\abraa\OneDrive\Documentos\Projects\LibaryBase\obj\Debug\net8.0\refint\L
 C:\Users\abraa\OneDrive\Documentos\Projects\LibaryBase\obj\Debug\net8.0\LibaryBase.pdb
 C:\Users\abraa\OneDrive\Documentos\Projects\LibaryBase\obj\Debug\net8.0\LibaryBase.genruntimeconfig.cache
 C:\Users\abraa\OneDrive\Documentos\Projects\LibaryBase\obj\Debug\net8.0\ref\LibaryBase.dll
+C:\Users\abraa\OneDrive\Documentos\Projects\LibaryBase\obj\Debug\net8.0\LibaryBase.sourcelink.json
