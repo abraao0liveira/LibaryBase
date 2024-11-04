@@ -64,3 +64,4 @@ dotnet run
 ![Captura de tela 2024-11-04 193732](https://github.com/user-attachments/assets/5f773409-ffad-4d43-9e7d-98ffd2085282)
 
 ## Terminal Listar livros
+![Captura de tela 2024-11-04 193832](https://github.com/user-attachments/assets/52e1f9d2-667c-4cc8-96fe-39d755cceca1)
