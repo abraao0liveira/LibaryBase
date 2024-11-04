@@ -12,6 +12,7 @@ A ideia principal do LibraryBase era simular o controle de estoque de uma livrar
 
 ## Pré-requisitos
 - .NET
+- MySQL
 
 ## Como rodar o Banco de Dados?
 
@@ -58,34 +59,3 @@ namespace LibaryBase.DataAccess
 ```bash
 dotnet run
 ```
-
-### Menu
-Bem-vindo a biblioteca
------------------------
-1 - Adicionar livro
-2 - Atualizar livro
-3 - Remover livro
-4 - Listar livros
-5 - Listar livro por id
-6 - Sair
------------------------
-
-### Listar livros
-
-Id: 1
-Nome: O último desejo - The Witcher
-Data de publicação: 19/12/2019 00:00:00
-Quantidade: 1087
------------------------
------------------------
-Id: 2
-Nome: Duna
-Data de publicação: 28/04/2017 00:00:00
-Quantidade: 3201
------------------------
------------------------
-Id: 3
-Nome: Trilogia da Fundação
-Data de publicação: 08/04/2019 00:00:00
-Quantidade: 230
------------------------
