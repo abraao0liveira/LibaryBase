@@ -18,7 +18,7 @@ A ideia principal do LibraryBase era simular o controle de estoque de uma livrar
 
 1. Abra o MySQL
 2. Crie a conexão com o banco de dados
-3. Adicione a tabela e os dados de cada coluna pelo DBeaver
+3. Adicione a tabela e os dados de cada coluna
 
 ## Como rodar o código?
 
