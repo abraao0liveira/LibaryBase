@@ -112,7 +112,7 @@ namespace LibaryBase.DataAccess
       {
         connection.Open();
 
-        string sql = "DELETE FROM libaty.book_store WHERE id_book = @id_book";
+        string sql = "DELETE FROM libary.book_store WHERE id_book = @id_book";
 
         using (var cmd = new MySqlCommand(sql, connection))
         {
